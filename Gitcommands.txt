@@ -1,1 +1,6 @@
 Hi sharad here! Would like to store Git commands.
+
+git commands
+
+git add . - selects all the files
+git commit -m  "new message" - to commit code and add message
