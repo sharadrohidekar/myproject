@@ -4,3 +4,5 @@ git commands
 
 git add . - selects all the files
 git commit -m  "new message" - to commit code and add message
+git init - will create a new local GIT repository
+git clone - is used to copy a repository
